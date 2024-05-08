@@ -1,6 +1,5 @@
 # test_some_ips
 Used Batch Script &amp; Shell Script to test pings of IP addresses. 
-For some unknown reasons, I cannot connect to certain websites due to DNS issues which sometimes I managed to fix it, sometimes it will revert back.
 You can customize how many websites to ping you want!
 
 ## How to Run?
@@ -23,6 +22,11 @@ sed -i -e 's/\r$//' test.sh
 chmod +x test.sh
 ./test.sh
 ```
+<br />
+
+I started this because for some unknonw reasons, I cannot connect to certain websites due to DNS issues which I managed to fix it for awhile it worked, but somehow and sometimes it will revert back the issues.
+Update: I just reset and restart (switch on and off) the router, and it back to normal (for now). <br />
+
 
 ### References:
 1. https://youtu.be/YJ8V70FfwYQ
