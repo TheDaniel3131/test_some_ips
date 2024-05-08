@@ -1,5 +1,5 @@
 # test_some_ips
-Used Batch Script &amp; Shell Script to test pings of IP addresses. 
+Use Batch Script &amp; Shell Script to test pings of IP addresses. 
 You can customize how many websites to ping you want!
 
 ## How to Run?
