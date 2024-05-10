@@ -27,7 +27,7 @@ chmod +x test.sh
 
 ### Background
 
-Created this repo to help others who are encountering same issue like my case. Als, most of the methods from articles and forums are outdated so I documented my finding and solutions here.
+Created this repo to help others who are encountering same issue like my case. Most of the methods from articles and forums are outdated and not working so I documented my finding and solutions here.
 For some reasons, I cannot connect to certain websites due to IPV4/DHCP/DNS related issues which I managed to fix it for awhile it worked, but somehow and sometimes it will revert back the issues.
 Update: I just reset and restart (switch on and off) the router, and it back to normal (for now). <br/> <br />
 Another Update: I realized my IP address said it is duplicated so I manually added and it back to normal which cause some websites are not be able to run. <br />
