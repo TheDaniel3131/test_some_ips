@@ -11,14 +11,14 @@ test.bat
 ```
 
 Or just specifying the file path where your file is at:
-```cd
+```cmd
 cd C:\Example\test.bat
 ```
 
 ---
 As for Linux users, use Shell Script.
 To run the program, follow these commands accordingly:
-```linux
+```shell
 sed -i -e 's/\r$//' test.sh
 chmod +x test.sh
 ./test.sh
