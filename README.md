@@ -45,7 +45,7 @@ not showing the screenshot of my ipconfig /all because it contains sensitive inf
 
 ![image](https://github.com/TheDaniel3131/test_some_ips/assets/71692327/b71ead80-fec6-4bf2-a837-627161feb1c9)
 
-```
+```cmd
 To any people, if you have further problem like still occuring duplicate address even after the changes.
 I suggest you to check the WiFi status and click details to see if there is Autoconfiguration IP Address (APIPA) conflicted with your IPV4 address.
 Highly recommend you to check out this tutorial: https://www.youtube.com/watch?v=Rcmr8CLRDSU
@@ -59,7 +59,7 @@ netsh interface ipv4 set interface * dadtransmits=0 store=persistent
 
 <br />
 
-```
+```cmd
 Run as administarator on services.msc and find DHCP Client, click disabled and applied changes.
 Restart your PC/Laptop and recheck in administrator: cmd by typing ipconfig/all to see if it is changed.
 
