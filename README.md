@@ -56,3 +56,4 @@ not showing the screenshot of my ipconfig /all because it contains sensitive inf
 4. https://dos2unix.sourceforge.io/
 5. https://www.youtube.com/watch?v=hJyVysEI5UQ&ab_channel=TechRelatedTips
 6. https://www.nslookup.io/website-to-ip-lookup/
+7. https://www.youtube.com/watch?v=Rcmr8CLRDSU
