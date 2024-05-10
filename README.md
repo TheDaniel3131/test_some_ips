@@ -1,6 +1,7 @@
 # test_some_ips
 ### Use Batch Script &amp; Shell Script to test pings of websites' IP addresses. <br />
-To view popular website IP address, you can use "nslookup [example.com]". You can customize how many websites to ping you want!
+To view popular website IP address, you can use "nslookup [example.com]". Grab those IP addresses and put them in scripts and run! <br />
+You can customize as many websites as you want to ping connections!
 <br/>
 
 ## How to Run?
