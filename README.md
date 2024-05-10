@@ -1,6 +1,7 @@
 # test_some_ips
-Use Batch Script &amp; Shell Script to test pings of IP addresses. 
-You can customize how many websites to ping you want!
+### Use Batch Script &amp; Shell Script to test pings of websites' IP addresses. <br />
+To view popular website IP address, you can use "nslookup [example.com]". You can customize how many websites to ping you want!
+<br/>
 
 ## How to Run?
 For Windows users use Batch Script. 
@@ -53,3 +54,5 @@ not showing the screenshot of my ipconfig /all because it contains sensitive inf
 2. https://stackoverflow.com/questions/14219092/bash-script-bin-bashm-bad-interpreter-no-such-file-or-directory
 3. https://stackoverflow.com/questions/18123211/checking-host-availability-by-using-ping-in-bash-scripts
 4. https://dos2unix.sourceforge.io/
+5. https://www.youtube.com/watch?v=hJyVysEI5UQ&ab_channel=TechRelatedTips
+6. https://www.nslookup.io/website-to-ip-lookup/
