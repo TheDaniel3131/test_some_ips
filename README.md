@@ -50,7 +50,7 @@ To any people, if you have further problem like still occuring duplicate address
 I suggest you to check the WiFi status and click details to see if there is Autoconfiguration IP Address (APIPA) conflicted with your IPV4 address.
 Highly recommend you to check out this tutorial: https://www.youtube.com/watch?v=Rcmr8CLRDSU
 
-Just run as administrators and run these commands 
+Just run as administrators and run these commands below:
 
 netsh interface ipv4 show inter 
 netsh interface ipv4 set interface * dadtransmits=0 store=persistent
