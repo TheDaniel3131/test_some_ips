@@ -10,7 +10,7 @@ You can either click on "test.bat" or just run cmd like this:
 test.bat
 ```
 
-Or just specifying the file path where your file is at:
+Or just specifying the file path where your file is at with test.bat for example:
 ```cmd
 cd C:\Example\test.bat
 ```
