@@ -26,6 +26,26 @@ chmod +x test.sh
 
 I started this because for some unknonw reasons, I cannot connect to certain websites due to DNS issues which I managed to fix it for awhile it worked, but somehow and sometimes it will revert back the issues.
 Update: I just reset and restart (switch on and off) the router, and it back to normal (for now). <br />
+Another Update: I realized my IP address said it is duplicated so I manually added and it back to normal which cause some websites are not be able to run. <br />
+
+My solution for Another Update:
+```cmd
+ipconfig /flushdns or ipconfig /dnsflush
+netsh winsock reset
+
+(restart pc)
+
+ipconfig /all
+
+manually set up IP address, subnet mask, and default gateaway (you can view it from ipconfig/all). I also set up DNS server based from my local ISP.
+not showing the screenshot of my ipconfig /all because it contains sensitive information.
+```
+<br/>
+
+![image](https://github.com/TheDaniel3131/test_some_ips/assets/71692327/b71ead80-fec6-4bf2-a837-627161feb1c9)
+
+
+
 
 
 ### References:
