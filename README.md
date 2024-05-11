@@ -1,4 +1,4 @@
-# test_some_ips
+![image](https://github.com/TheDaniel3131/test_some_ips/assets/71692327/f5147fe0-82b4-4e1c-99b1-6b74576a73d5)# test_some_ips
 ### Use Batch Script &amp; Shell Script to test pings of websites' IP addresses. <br />
 To view popular website IP address, you can use "nslookup [example.com]". Grab those IP addresses and put them in scripts and run! <br />
 You can customize as many websites as you want to ping connections!
@@ -34,6 +34,11 @@ For some reasons, I cannot connect to certain websites due to IPV4/DHCP/DNS rela
 Update (8-5-2024): I just reset and restart (switch on and off) the router, and it back to normal (for now).
 <br/> <br />
 Another Update (10-5-2024): I realized my IP address said it is duplicated so I manually added and it back to normal which cause some websites are not be able to run. <br />
+Last Update (11-5-2024): I had to run DHCP Client back and fix ipconfig /release errors as the connections are not stable (alwauys interrupted with disconnected status..)
+![image](https://github.com/TheDaniel3131/test_some_ips/assets/71692327/d7ec4d95-60cc-4c64-b51c-fc99ae46b075)
+
+You can view this tutorial (basically just updating wifi driver, turning on DHCP client and troubleshooting): https://www.youtube.com/watch?v=JARAHO07g6U
+<br />
 
 My solution for Another Update:
 ```cmd
@@ -86,3 +91,4 @@ Please revisit this problem if you have trouble. Hope it helps out!
 5. https://www.youtube.com/watch?v=hJyVysEI5UQ&ab_channel=TechRelatedTips
 6. https://www.nslookup.io/website-to-ip-lookup/
 7. https://www.youtube.com/watch?v=Rcmr8CLRDSU
+8. https://www.youtube.com/watch?v=JARAHO07g6U
