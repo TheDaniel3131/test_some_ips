@@ -32,9 +32,9 @@ Created this repo to help others who are encountering same issue like my case. M
 For some reasons, I cannot connect to certain websites due to IPV4/DHCP/DNS related issues which I managed to fix it for awhile it worked, but somehow and sometimes it will revert back the issues. <br />
 
 Update (8-5-2024): I just reset and restart (switch on and off) the router, and it back to normal (for now).
-<br/> <br />
+<br/>
 Another Update (10-5-2024): I realized my IP address said it is duplicated so I manually added and it back to normal which cause some websites are not be able to run. <br />
-Last Update (11-5-2024): I had to run DHCP Client back and fix ipconfig /release errors as the connections are not stable (alwauys interrupted with disconnected status..)
+Last Update (11-5-2024): I had to run DHCP Client back and fix ipconfig /release errors as the connections are not stable (alwauys interrupted with disconnected status..) <br /> <br />
 ![image](https://github.com/TheDaniel3131/test_some_ips/assets/71692327/d7ec4d95-60cc-4c64-b51c-fc99ae46b075)
 
 You can view this tutorial (basically just updating wifi driver, turning on DHCP client and troubleshooting): https://www.youtube.com/watch?v=JARAHO07g6U
